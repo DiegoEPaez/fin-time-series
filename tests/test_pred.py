@@ -2,7 +2,7 @@ from unittest import TestCase
 import numpy as np
 import pandas as pd
 
-from pred import stationary, create_lags, quantiles
+from src.pred import stationary, create_lags, quantiles
 
 
 class Test(TestCase):
