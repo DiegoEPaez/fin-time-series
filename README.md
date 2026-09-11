@@ -8,7 +8,7 @@ Two types of neural networks are available to predict an LSTM, and a TCN (tempor
 
 ## 🛠️ Tech Stack & Tooling
 
-* **Core Machine Learning:** Scikit-Learn, LightGBM / XGBoost.
+* **Core Machine Learning:** Scikit-Learn, Pytorch.
 * **Data Processing & Analytics:** Pandas (Vectorized multi-index pipelines), NumPy, Statsmodels.
 * **Visualization:** Matplotlib, Seaborn (Custom financial plotting layouts).
 
